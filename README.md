@@ -39,3 +39,26 @@ Este projeto consiste no desenvolvimento de um esquema lógico de banco de dados
 - `produto_fornecedor` - Relação produto-fornecedor
 - `produto_estoque` - Controle de estoque por local
 - `produto_vendedor` - Produtos vendidos por terceiros
+
+
+## Queries Incluídas
+- SELECT simples: listagem de produtos ativos
+- WHERE: pedidos com valor acima da média
+- Atributo derivado: cálculo de desconto e margem de lucro
+- ORDER BY: ranking de clientes por gasto
+- HAVING: produtos com vendas acima da média
+- JOINs: relatório completo de pedidos com pagamentos e entregas
+
+## Perguntas Respondidas
+1. Quantos pedidos foram feitos por cada cliente?
+2. Algum vendedor também é fornecedor?
+3. Relação de produtos, fornecedores e estoques
+4. Quais produtos têm maior margem de lucro?
+5. Qual transportadora tem melhor prazo de entrega?
+
+## Arquivos
+- ecommerce.sql (script completo)
+- README.md (este arquivo)
+
+## Autor
+Kailayni Janez
