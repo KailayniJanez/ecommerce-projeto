@@ -39,5 +39,3 @@ Este projeto consiste no desenvolvimento de um esquema lógico de banco de dados
 - `produto_fornecedor` - Relação produto-fornecedor
 - `produto_estoque` - Controle de estoque por local
 - `produto_vendedor` - Produtos vendidos por terceiros
-
-## 🗂️ Estrutura do Arquivo
